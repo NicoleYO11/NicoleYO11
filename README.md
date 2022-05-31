@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicoleYO11
 - 👀 I’m interested in Stats and Data Science.
-- 🌱 I’m currently majoring in statistics and probability.  
+- 🌱 I’m currently majoring in statistics and probability in UCSD. 
 - 💞️ I’m looking to collaborate on graph theory and quantile/expected shortfall regression.
 - 📫 How to reach me: zhy003@ucsd.edu
 
